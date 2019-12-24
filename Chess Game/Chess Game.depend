@@ -1,0 +1,197 @@
+# depslib dependency file v1.0
+1554760556 source:c:\users\admin\desktop\chess game\main.cpp
+	"Piece.h"
+	"Pawn.h"
+	"Constants.h"
+	"Square.h"
+	"Board.h"
+	"Player.h"
+	<vector>
+
+1555720452 c:\users\admin\desktop\chess game\piece.h
+	"Constants.h"
+	<vector>
+
+1555017126 source:c:\users\admin\desktop\chess game\piece.cpp
+	"Piece.h"
+	<iostream>
+
+1556149196 source:c:\users\admin\desktop\chess game\constants.cpp
+	"Constants.h"
+
+1556149196 c:\users\admin\desktop\chess game\constants.h
+	<iostream>
+	<map>
+
+1555567542 source:c:\users\admin\desktop\chess game\pawn.cpp
+	"Pawn.h"
+	"Square.h"
+
+1555518577 c:\users\admin\desktop\chess game\pawn.h
+	"Piece.h"
+
+1555027769 source:c:\users\admin\desktop\chess game\square.cpp
+	"Square.h"
+	"Piece.h"
+
+1555027769 c:\users\admin\desktop\chess game\square.h
+	<iostream>
+
+1556151354 source:c:\users\admin\desktop\chess game\board.cpp
+	"Board.h"
+	"Square.h"
+	"Constants.h"
+	"Player.h"
+	"Pawn.h"
+	"King.h"
+
+1556150149 c:\users\admin\desktop\chess game\board.h
+	<vector>
+	<iostream>
+
+1556151541 source:c:\users\admin\desktop\chess game\player.cpp
+	"Player.h"
+	"Pawn.h"
+	"King.h"
+	"Bishop.h"
+	"Knight.h"
+	"Rook.h"
+	"Queen.h"
+
+1556150149 c:\users\admin\desktop\chess game\player.h
+	"Piece.h"
+	<vector>
+
+1555518779 source:c:\users\admin\desktop\chess game\king.cpp
+	"King.h"
+	"Square.h"
+
+1555518577 c:\users\admin\desktop\chess game\king.h
+	"Piece.h"
+
+1556148787 source:c:\users\admin\desktop\chess game\queen.cpp
+	"Queen.h"
+	"Square.h"
+
+1555981184 c:\users\admin\desktop\chess game\queen.h
+	"Piece.h"
+
+1555634259 source:c:\users\admin\desktop\chess game\bishop.cpp
+	"Bishop.h"
+	"Square.h"
+
+1555518577 c:\users\admin\desktop\chess game\bishop.h
+	"Piece.h"
+
+1555796845 source:c:\users\admin\desktop\chess game\knight.cpp
+	"Knight.h"
+	"Square.h"
+
+1555720505 c:\users\admin\desktop\chess game\knight.h
+	"Piece.h"
+
+1555980635 source:c:\users\admin\desktop\chess game\rook.cpp
+	"Rook.h"
+	"Square.h"
+
+1555978751 c:\users\admin\desktop\chess game\rook.h
+	"Piece.h"
+
+1555630659 source:c:\users\admin\desktop\c_c++\chess game\bishop.cpp
+	"Bishop.h"
+	"Square.h"
+
+1555514977 c:\users\admin\desktop\c_c++\chess game\bishop.h
+	"Piece.h"
+
+1555716852 c:\users\admin\desktop\c_c++\chess game\piece.h
+	"Constants.h"
+	<vector>
+
+1556145596 c:\users\admin\desktop\c_c++\chess game\constants.h
+	<iostream>
+	<map>
+
+1555024169 c:\users\admin\desktop\c_c++\chess game\square.h
+	<iostream>
+
+1556148340 source:c:\users\admin\desktop\c_c++\chess game\board.cpp
+	"Board.h"
+	"Square.h"
+	"Constants.h"
+	"Player.h"
+	"Pawn.h"
+	"King.h"
+
+1556146549 c:\users\admin\desktop\c_c++\chess game\board.h
+	<vector>
+	<iostream>
+
+1556146549 c:\users\admin\desktop\c_c++\chess game\player.h
+	"Piece.h"
+	<vector>
+
+1555514977 c:\users\admin\desktop\c_c++\chess game\pawn.h
+	"Piece.h"
+
+1555514977 c:\users\admin\desktop\c_c++\chess game\king.h
+	"Piece.h"
+
+1556145596 source:c:\users\admin\desktop\c_c++\chess game\constants.cpp
+	"Constants.h"
+
+1555515179 source:c:\users\admin\desktop\c_c++\chess game\king.cpp
+	"King.h"
+	"Square.h"
+
+1555793245 source:c:\users\admin\desktop\c_c++\chess game\knight.cpp
+	"Knight.h"
+	"Square.h"
+
+1555716905 c:\users\admin\desktop\c_c++\chess game\knight.h
+	"Piece.h"
+
+1554756956 source:c:\users\admin\desktop\c_c++\chess game\main.cpp
+	"Piece.h"
+	"Pawn.h"
+	"Constants.h"
+	"Square.h"
+	"Board.h"
+	"Player.h"
+	<vector>
+
+1555563942 source:c:\users\admin\desktop\c_c++\chess game\pawn.cpp
+	"Pawn.h"
+	"Square.h"
+
+1555013526 source:c:\users\admin\desktop\c_c++\chess game\piece.cpp
+	"Piece.h"
+	<iostream>
+
+1556147941 source:c:\users\admin\desktop\c_c++\chess game\player.cpp
+	"Player.h"
+	"Pawn.h"
+	"King.h"
+	"Bishop.h"
+	"Knight.h"
+	"Rook.h"
+	"Queen.h"
+
+1555975151 c:\users\admin\desktop\c_c++\chess game\rook.h
+	"Piece.h"
+
+1555977584 c:\users\admin\desktop\c_c++\chess game\queen.h
+	"Piece.h"
+
+1556145187 source:c:\users\admin\desktop\c_c++\chess game\queen.cpp
+	"Queen.h"
+	"Square.h"
+
+1555977035 source:c:\users\admin\desktop\c_c++\chess game\rook.cpp
+	"Rook.h"
+	"Square.h"
+
+1555024169 source:c:\users\admin\desktop\c_c++\chess game\square.cpp
+	"Square.h"
+	"Piece.h"
+
